@@ -1,1 +1,1 @@
-Repositories with git
+Github makes work easy
